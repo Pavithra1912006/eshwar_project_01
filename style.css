@@ -1,0 +1,13 @@
+.heading_style {
+    color: rgb(3, 3, 255);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.rectangle {
+    width: 250px;
+    height: 120px;
+    background-color: rgb(140, 255, 17);
+    border-radius: 15px;
+}
